@@ -3,7 +3,7 @@ Matching the strings entity with a huge set of data repository with multiple pro
 The idea of fuzzy logic could also been adopted here but here I intend to build a string matching engine with the combination of
 Natural Language Processing (NLTK) & rule based algorithm.
 
-# Steps
+# Projects Application
 Code Files: The Rule based algorithm has been applied in two applications as highlighted below.
 ### 1) Manual_Match_Script_V1.6.ipynb
 ## Description: 
