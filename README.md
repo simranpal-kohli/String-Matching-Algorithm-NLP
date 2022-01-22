@@ -1,5 +1,5 @@
 # Rule-Based-Match-Algorithm
-Matching the strings entity with a huge set of data repository with multiple probable suggestions.
+Matching the strings entities with Historical CRM feeds with multiple probable suggestions.
 The idea of fuzzy logic could also been adopted here but here I intend to build a string matching engine with the combination of
 Natural Language Processing (NLTK) & rule based algorithm.
 
